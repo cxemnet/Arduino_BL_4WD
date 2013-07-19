@@ -1,2 +1,2 @@
-CxemCAR - Android-управление машинкой по Bluetooth
-Официальная страница проекта: http://cxem.net/uprav/uprav43.php
+CxemCAR - Android-СѓРїСЂР°РІР»РµРЅРёРµ РјР°С€РёРЅРєРѕР№ РїРѕ Bluetooth
+РћС„РёС†РёР°Р»СЊРЅР°СЏ СЃС‚СЂР°РЅРёС†Р° РїСЂРѕРµРєС‚Р°: http://cxem.net/uprav/uprav43.php
